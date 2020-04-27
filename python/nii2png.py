@@ -11,7 +11,7 @@
 #              MIT License              #
 #########################################
 
-import scipy, numpy, shutil, os, nibabel
+import scipy, numpy, os, nibabel
 import sys, getopt
 
 def main(argv):
